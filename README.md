@@ -29,45 +29,20 @@ I am a **B.E. Student in Artificial Intelligence and Machine Learning** at Zeal 
 
 ---
 
-## 🛠️ Technical Skills
+### 🛠️ Technical Skills
 
 <div align="center">
 
-| **Languages** | **Web Development** | **AI & Data Science** | **Tools & BI** |
+| **Languages** | **Web Development** | **AI & Data Science** | **Tools & Platforms** |
 | :---: | :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black) |
-| ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) | ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white) | ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) |
-| ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) | ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![NLP](https://img.shields.io/badge/-NLP-4285F4?style=flat&logo=google&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) | ![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) | ![HuggingFace](https://img.shields.io/badge/-Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black) | ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) |
 
 </div>
-
----
-
-## 🛠 Tech Stack & Tools
-
-### **🚀 AI / Machine Learning**
-- Python, NumPy, Pandas, Scikit-learn  
-- TensorFlow / Keras, PyTorch  
-- NLP, Transformers, BERT  
-- LLMs, Multi-Agent Systems  
-- Data Processing, Model Deployment  
-
-### **🌐 Web Development**
-- HTML, CSS, JavaScript, TypeScript  
-- React.js / Next.js  
-- TailwindCSS  
-- REST APIs, Node.js  
-- Supabase, Firebase  
-- Git, GitHub, Vercel  
-
-### **⚙️ Tools I Use Daily**
-- VS Code  
-- Jupyter Notebooks  
-- Google Colab  
-- Postman  
-- GitHub Projects / Issues  
-- Notion
   
 ### 🐍 GitHub Contribution Snake
 
@@ -79,36 +54,18 @@ I am a **B.E. Student in Artificial Intelligence and Machine Learning** at Zeal 
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/Sumitkolgire23/Sumitkolgire23/refs/heads/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Suryansh777777&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryansh777777&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 📊 GitHub Analytics
 
----
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhagyashreemali&theme=radical&hide_border=true" height="180" alt="Streak Stats" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumitkolgire23&show_icons=true&theme=highcontrast" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitkolgire23&layout=compact&theme=highcontrast" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sumitkolgire23&theme=highcontrast&no_cache=1" />
-</p>
+<br>
 
 ## 📫 Connect With Me
 
-- 📧 Email: **[BHAGYASHREEMALI1624@gmail.com](mailto:BHAGYASHREEMALI1624@gmail.com)**  
-- 🔗 LinkedIn: [www.linkedin.com/in/bhagyashree-mali]
-- 🧠 GitHub: **[github.com/bhagyashreemali](https://github.com/bhagyashreemali)**
+- 📧 Email: **BHAGYASHREEMALI1624@gmail.com**  
+- 🔗 LinkedIn: [www.linkedin.com/in/bhagyashree-mali]  
+- 🧠 GitHub: **github.com/bhagyashreemali**
 
----
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhagyashreemali&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagyashreemali&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="160" />
-</div>
