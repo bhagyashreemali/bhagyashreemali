@@ -1,3 +1,4 @@
+<h1 align="center">👋 Hey, I'm Bhagayashree Mali</h1>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9C27B0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Bhagyashree+Mali;AIML+Engineer+%7C+Web+Developer;Building+AI+Tools+%26+Responsive+Apps;Data+Visualization+Expert" alt="Typing SVG" />
@@ -47,34 +48,35 @@ I am a **B.E. Student in Artificial Intelligence and Machine Learning** at Zeal 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9C27B0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Bhagyashree+Mali;AIML+Engineer+%7C+Web+Developer;Building+AI+Tools+%26+Responsive+Apps;Data+Visualization+Expert" alt="Typing SVG" />
   </a>
-
-  <p>
-    <a href="BHAGYASHREEMALI1624@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="[www.linkedin.com/in/bhagyashree-mali]  ">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://github.com/bhagyashreemali">
-      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
 </div>
 
 <br>
 
-## 👩‍💻 About Me
-
-I am a **B.E. Student in Artificial Intelligence and Machine Learning** at Zeal College of Engineering, Pune. I combine a strong foundation in programming with hands-on experience in **Web Technologies** and **AI/ML Tools**.
-
-* 🔭 **I’m currently working on:** Deep Learning models for Computer Vision and NLP.
-* 📊 **Specialization:** Transforming data into business insights using **Power BI** and **Tableau**.
-* 🚀 **Goal:** Eager to contribute to impactful tech projects in a dynamic environment.
-
-## 📊 GitHub Analytics
+## 🛠 Tech Stack & Arsenal
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhagyashreemali&theme=radical&hide_border=true" height="180" alt="Streak Stats" />
+
+### **🧠 AI & Machine Learning**
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+### **🌐 Full-Stack Development**
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+
+### **⚙️ Tools & DevOps**
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
 </div>
 
@@ -97,14 +99,14 @@ I am a **B.E. Student in Artificial Intelligence and Machine Learning** at Zeal 
 - **What it does:** Automatically generates descriptive captions for input images using Deep Learning.
 - **Architecture:** Uses **CNN** (Convolutional Neural Networks) for vision and **LSTM** for text sequence generation.
 - **Tech:** `Python`, `TensorFlow`, `Keras`, `Flickr8k Dataset`
-  
- ### 🐍 GitHub Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhagyashreemali/bhagyashreemali/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/bhagyashreemali/bhagyashreemali/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+
+  ## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhagyashreemali&theme=radical&hide_border=true" height="180" alt="Streak Stats" />
+
+</div>
+
 
 ## 📫 Connect With Me
 
