@@ -7,7 +7,7 @@
     <a href="mailto:bhagyashreemali1624@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/bhagyashreemali">
+    <a href="[https://www.linkedin.com/in/bhagyashreemali](https://www.linkedin.com/in/bhagyashree-mali/)">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="github.com/bhagyashreemali">
@@ -110,6 +110,6 @@ I am a **B.E. Student in Artificial Intelligence and Machine Learning** at Zeal 
 
 - 📧 Email: **BHAGYASHREEMALI1624@gmail.com**  
 - 🔗 LinkedIn: [www.linkedin.com/in/bhagyashree-mali]  
-- 🧠 GitHub: **github.com/bhagyashreemali**
+- 🧠 GitHub: https://github.com/bhagyashreemali
   
 <h3 align="center">🚀 Mastering Logic • Building the Web • Architecting AI Agents</h3>
