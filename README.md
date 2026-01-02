@@ -26,7 +26,8 @@
 ### 🔝 Top Contributed Repo
 
 ## 👀 Profile Views
-![Profile Views](https://visitcount.itsvg.in/api?id=BhagyashreeMali&icon=0&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=BhagyashreeMali&color=blueviolet)
+<br><br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
